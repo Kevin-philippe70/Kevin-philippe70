@@ -25,7 +25,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Mes compétences  
 <table><tr><td valign="top" width="33%">
 
 
@@ -75,7 +75,7 @@
 <br/>  
 
 
-## Connect with me  
+## Retrouvez moi sur :  
 <div align="center">
 <a href="https://github.com/Kevin-philippe70" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -89,7 +89,7 @@
 <br/>  
 
 
-## Github Stats  
+## Stats Github  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kevin-philippe70&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
