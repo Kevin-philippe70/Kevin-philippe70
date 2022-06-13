@@ -1,5 +1,5 @@
-<div align="center">
-<img src="https://tenor.com/bOAre.gif" align="center" style="width: 100%" />
+
+<div class="tenor-gif-embed" data-postid="24410458" data-share-method="host" data-aspect-ratio="4" data-width="100%"><a href="https://tenor.com/view/github-gif-24410458">Github GIF</a>from <a href="https://tenor.com/search/github-gifs">Github GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div> 
   
 
