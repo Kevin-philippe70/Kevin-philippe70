@@ -1,6 +1,6 @@
-
-<div class="tenor-gif-embed" data-postid="24410458" data-share-method="host" data-aspect-ratio="4" data-width="100%"><a href="https://tenor.com/view/github-gif-24410458">Github GIF</a>from <a href="https://tenor.com/search/github-gifs">Github GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</div> 
+<div align="center">
+<img src="[https://rishavanand.github.io/static/images/greetings.gif](https://tenor.com/view/github-gif-24410458)" align="center" style="width: 100%" />
+</div>  
   
 
 ### <div align="center">Je suis Kévin, en reconversion professionnelle en  tant que Concepteur Designer UI👨‍💻 en formation depuis Octobre 2021 🚀</div>  
