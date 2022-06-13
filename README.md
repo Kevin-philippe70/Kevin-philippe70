@@ -1,5 +1,5 @@
 <div align="center">
-<img src="[(https://tenor.com/view/github-gif-24410458)" align="center](https://tenor.com/bOAre.gif)" style="width: 100%" />
+<img src="[https://rishavanand.github.io/static/images/greetings.gif](https://tenor.com/view/github-gif-24410458)" align="center" style="width: 100%" />
 </div>  
   
 
