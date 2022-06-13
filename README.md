@@ -1,6 +1,6 @@
 <div align="center">
-<img src="[https://rishavanand.github.io/static/images/greetings.gif](https://gifer.com/fr/BliM)"(https://i.gifer.com/BliM.gif) align="center" style="width: 100%" />
-</div>  
+<img src="[https://rishavanand.github.io/static/images/greetings.gif](https://tenor.com/bOAre.gif)" align="center" style="width: 100%" />
+</div> 
   
 
 ### <div align="center">Je suis Kévin, en reconversion professionnelle en  tant que Concepteur Designer UI👨‍💻 en formation depuis Octobre 2021 🚀</div>  
