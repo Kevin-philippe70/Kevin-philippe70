@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="![tenor](https://user-images.githubusercontent.com/91876284/173424766-d12398f4-bbf0-4fa3-ad46-d9c415cb222b.gif)" align="center" style="width: 100%" />
+<img src="https://user-images.githubusercontent.com/91876284/173424766-d12398f4-bbf0-4fa3-ad46-d9c415cb222b.gif" align="center" style="width: 100%" />
 </div>  
 
 
