@@ -1,4 +1,6 @@
-<div style="padding-top:78.631%;position:relative;"><iframe src="https://gifer.com/embed/BliM" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+<div align="center">
+<img src="[https://rishavanand.github.io/static/images/greetings.gif](https://gifer.com/fr/BliM)"(https://i.gifer.com/BliM.gif) align="center" style="width: 100%" />
+</div>  
   
 
 ### <div align="center">Je suis Kévin, en reconversion professionnelle en  tant que Concepteur Designer UI👨‍💻 en formation depuis Octobre 2021 🚀</div>  
