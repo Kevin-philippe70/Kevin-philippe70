@@ -1,5 +1,6 @@
+<div align="center">
 ![tenor](https://user-images.githubusercontent.com/91876284/173424433-2f9f3ad1-2ee3-4b74-acd6-f3b65e47bc8d.gif)
-
+</div> 
   
 
 ### <div align="center">Je suis Kévin, en reconversion professionnelle en  tant que Concepteur Designer UI👨‍💻 en formation depuis Octobre 2021 🚀</div>  
