@@ -1,15 +1,11 @@
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/91876284/173427877-75f0d656-94a6-49f6-905a-fe1afa07acf2.gif" align="center" style="width: 100%" height:"80%" />
-</div>  
+</div>    
 
 
 
-
-
-  
-
-### <div align="center">Je suis Kévin, en reconversion professionnelle en  tant que Concepteur Designer UI👨‍💻 en formation depuis Octobre 2021 🚀</div>  
+### <div align="center">Je suis Kévin, actuellement en reconversion professionnelle en  tant que Concepteur Designer UI👨‍💻 en formation depuis Octobre 2021 🚀</div>  
   
 
 - 🔭 Suivez mes projets récents sur  [Github Kevin](https://github.com/Kevin-philippe70)  
