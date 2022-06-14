@@ -111,4 +111,4 @@
 <br />
 
 ----
-<div align="center">Merci pour votre visite !! <a href="https://profilinator.rishav.dev/" target="_blank">Kévin Philippe</a></div>
+<div align="center">Merci pour votre visite !! <a target="_blank"> </a></div>
