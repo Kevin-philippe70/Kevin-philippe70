@@ -5,7 +5,8 @@
 
 
 
-### <div align="center">Je suis Kévin, actuellement en reconversion professionnelle en  tant que Concepteur Designer UI👨‍💻 en formation depuis Octobre 2021 🚀</div>  
+### <div align="center">Je suis Kévin, j'ai suivi ma reconversion professionnelle dans le développement web orienté Front-End.
+  Ayant validé ma certification en juillet 2022, je perfectionne chaque jours cette soif d'apprendre à l'aide de divers petits projets en attendant de trouver une entreprise spécialisée🚀</div>  
   
 
 - 🔭 Suivez mes projets récents sur  [Github Kevin](https://github.com/Kevin-philippe70)  
