@@ -112,4 +112,4 @@
 <br />
 
 ----
-<div align="center" color:"red">Merci pour votre visite !! <a target="_blank"> </a></div>
+# <div align="center">Merci pour votre visite !! <a target="_blank"> </a></div>
